@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-proxy",
+  "version": "1.0.0",
+  "description": "A minecraft client/server proxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UberPilot/node-minecraft-proxy.git"
+  },
+  "author": "UberPilot <uberpilot99@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UberPilot/node-minecraft-proxy/issues"
+  },
+  "homepage": "https://github.com/UberPilot/node-minecraft-proxy#readme",
+  "dependencies": {
+    "minecraft-protocol": "^1.11.0"
+  }
+}
